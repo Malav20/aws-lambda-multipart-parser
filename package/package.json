@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/Malav20/aws-lambda-multipart-parser/issues"
   },
-  "homepage": "https://github.com/Malav20/aws-lambda-multipart-parser#readme"
+  "homepage": "https://github.com/Malav20/aws-lambda-multipart-parser#readme",
+  "devDependencies": {
+    "busboy": "^1.6.0"
+  }
 }
