@@ -1,6 +1,6 @@
 {
-  "name": "aws-lambda-multipart-parser",
-  "version": "1.0.0",
+  "name": "@malav.parekh/aws-lambda-multipart-parser",
+  "version": "1.0.1",
   "description": "A latest AWS multipart parser",
   "main": "index.js",
   "scripts": {
@@ -17,7 +17,7 @@
     "lambda"
   ],
   "author": "Malav Parekh",
-  "license": "MIT",
+  "license": "ISC",
   "bugs": {
     "url": "https://github.com/Malav20/aws-lambda-multipart-parser/issues"
   },
