@@ -1,0 +1,25 @@
+{
+  "name": "aws-lambda-multipart-parser",
+  "version": "1.0.0",
+  "description": "A latest AWS multipart parser",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Malav20/aws-lambda-multipart-parser.git"
+  },
+  "keywords": [
+    "aws-lambda-multipart-parser",
+    "aws",
+    "aws-lambda",
+    "lambda"
+  ],
+  "author": "Malav Parekh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Malav20/aws-lambda-multipart-parser/issues"
+  },
+  "homepage": "https://github.com/Malav20/aws-lambda-multipart-parser#readme"
+}
